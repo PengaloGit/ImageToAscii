@@ -1,3 +1,3 @@
 # ImageToAscii
 A small software in cpp using [SFML](https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library)library that generate html page with the image input. This methode is based on  Paul Bourke [article](http://www.paulbourke.net/dataformats/asciiart/) about Character representation of grey scale images.
-![Example](http://www.mediafire.com/view/tq7v0da5140fcsu/ImageToAscii.PNG/file)
+![Example](ImageToAscii.PNG)

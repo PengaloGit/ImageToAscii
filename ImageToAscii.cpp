@@ -83,7 +83,7 @@ int main(int argc, char *argv[])
 	myfile.close();
 
 	cout << "File html generated with success !!" << endl;
-	cout << "Press any button to continue !!" << endl;
+	cout << "Press any key to continue !!" << endl;
 	getchar();
 	return 0;
 }
